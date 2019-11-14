@@ -1,0 +1,7 @@
+D:\Visual Studio Project\VariableCfg\VariableCfg\obj\Release\VariableCfg.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\VariableCfg\VariableCfg\bin\Release\VariableCfg.exe.config
+D:\Visual Studio Project\VariableCfg\VariableCfg\bin\Release\VariableCfg.exe
+D:\Visual Studio Project\VariableCfg\VariableCfg\bin\Release\VariableCfg.pdb
+D:\Visual Studio Project\VariableCfg\VariableCfg\obj\Release\VariableCfg.exe
+D:\Visual Studio Project\VariableCfg\VariableCfg\obj\Release\VariableCfg.pdb
+D:\Visual Studio Project\VariableCfg\VariableCfg\obj\Release\VariableCfg.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\Jason\Desktop\VariableCfg\VariableCfg\bin\Debug\VariableCfg.exe.config
+C:\Users\Jason\Desktop\VariableCfg\VariableCfg\bin\Debug\VariableCfg.exe
+C:\Users\Jason\Desktop\VariableCfg\VariableCfg\bin\Debug\VariableCfg.pdb
+C:\Users\Jason\Desktop\VariableCfg\VariableCfg\obj\Debug\VariableCfg.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\VariableCfg\VariableCfg\obj\Debug\VariableCfg.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\VariableCfg\VariableCfg\obj\Debug\VariableCfg.exe
+C:\Users\Jason\Desktop\VariableCfg\VariableCfg\obj\Debug\VariableCfg.pdb
+D:\Visual Studio Project\VariableCfg\VariableCfg\bin\Debug\VariableCfg.exe.config
+D:\Visual Studio Project\VariableCfg\VariableCfg\bin\Debug\VariableCfg.exe
+D:\Visual Studio Project\VariableCfg\VariableCfg\bin\Debug\VariableCfg.pdb
+D:\Visual Studio Project\VariableCfg\VariableCfg\obj\Debug\VariableCfg.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\VariableCfg\VariableCfg\obj\Debug\VariableCfg.exe
+D:\Visual Studio Project\VariableCfg\VariableCfg\obj\Debug\VariableCfg.pdb
+G:\Visual Studio Project\VariableCfg\VariableCfg\bin\Debug\VariableCfg.exe.config
+G:\Visual Studio Project\VariableCfg\VariableCfg\bin\Debug\VariableCfg.exe
+G:\Visual Studio Project\VariableCfg\VariableCfg\bin\Debug\VariableCfg.pdb
+G:\Visual Studio Project\VariableCfg\VariableCfg\obj\Debug\VariableCfg.csprojAssemblyReference.cache
+G:\Visual Studio Project\VariableCfg\VariableCfg\obj\Debug\VariableCfg.csproj.CoreCompileInputs.cache
+G:\Visual Studio Project\VariableCfg\VariableCfg\obj\Debug\VariableCfg.exe
+G:\Visual Studio Project\VariableCfg\VariableCfg\obj\Debug\VariableCfg.pdb
